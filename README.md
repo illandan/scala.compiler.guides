@@ -7,7 +7,7 @@ Here are some resources for new and experienced scala hackers, to help in their 
 * [Scala Compiler Internals - Old, but gold!][3]
 * [Scala Internals Wiki][4]
 * [Paulp's Scalac Internals talk][5]
-* [Jason Zaugg (retronym) - Scala survival guide talk][6]
+* [Jason Zaugg (retronym) - Scala survival guide talk][6] and [code from the talk][src-6]
 
 
 ## Papers
@@ -23,6 +23,7 @@ Anything else? ;-) Feel free to fork this or send a PR my way!
 [4]: https://wiki.scala-lang.org/display/SIW/
 [5]: https://skillsmatter.com/skillscasts/3265-scalac-internals
 [6]: https://www.youtube.com/watch?v=06oP5IXWveM&index=11&list=WL
+[src-6]: https://github.com/retronym/scalac-survival-guide
 
 [papers-1]: http://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf
 [papers-2]: http://scala-refactoring.org/wp-content/uploads/scala-refactoring.pdf
