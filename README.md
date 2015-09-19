@@ -12,7 +12,6 @@ Here are some resources for new and experienced Scala hackers, to help in their 
 * [Dotty, the repo][7] and [Dotty - getting started wiki][wiki-7]
 * [Scala Reflection Guide][8]
 * [Def Macros Guide][9]
-* [Internals of Scala annotations][11]
 
 ## Papers
 * [Michael Schinz - Compiling Scala for the JVM][papers-1]
