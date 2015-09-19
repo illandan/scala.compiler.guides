@@ -12,6 +12,7 @@ Here are some resources for new and experienced Scala hackers, to help in their 
 * [Dotty, the repo][7] and [Dotty - getting started wiki][wiki-7]
 * [Scala Reflection Guide][8]
 * [Def Macros Guide][9]
+* [Miguel Garcia: A new backend and optimizer for Scalac][11]
 
 ## Papers
 * [Michael Schinz - Compiling Scala for the JVM][papers-1]
@@ -33,6 +34,7 @@ Anything else? ;-) Feel free to fork this or send a PR my way!
 [8]: http://docs.scala-lang.org/overviews/reflection/overview.html
 [9]: http://docs.scala-lang.org/overviews/macros/overview.html
 [10]: https://github.com/scala/scala/blob/2.11.x/README.md
+[11]: http://magarciaepfl.github.io/scala/
 
 [papers-1]: http://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf
 [papers-2]: http://scala-refactoring.org/wp-content/uploads/scala-refactoring.pdf
