@@ -12,10 +12,12 @@ Here are some resources for new and experienced Scala hackers, to help in their 
 * [Dotty, the repo][7] and [Dotty - getting started wiki][wiki-7]
 * [Scala Reflection Guide][8]
 * [Def Macros Guide][9]
+* [Internals of Scala annotations][11]
 
 ## Papers
 * [Michael Schinz - Compiling Scala for the JVM][papers-1]
 * [Mirko Stocker - Scala Refactoring (Master's thesis)][papers-2]
+* [Internals of Scala annotations][papers-3]
 
 
 Anything else? ;-) Feel free to fork this or send a PR my way!
@@ -35,3 +37,4 @@ Anything else? ;-) Feel free to fork this or send a PR my way!
 
 [papers-1]: http://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf
 [papers-2]: http://scala-refactoring.org/wp-content/uploads/scala-refactoring.pdf
+[papers-3]: http://www.scala-lang.org/old/sid/5
