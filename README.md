@@ -18,7 +18,7 @@ Here are some resources for new and experienced Scala hackers, to help in their 
 * [Def Macros Guide][9]
 
 ## Old but gold
-* [Scala Compiler Internals][3]
+* [Scala Compiler Internals][3] (videos by Martin Odersky)
 * [Scala Internals Wiki][4]
 * [Miguel Garcia's Scala Compiler Corner Reloaded][2] (mainly about back end)
 * [Miguel Garcia: A new backend and optimizer for Scalac][11]
