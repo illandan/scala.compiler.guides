@@ -22,6 +22,7 @@ Here are some resources for new and experienced Scala hackers, to help in their 
 * [Scala Internals Wiki][4]
 * [Miguel Garcia's Scala Compiler Corner Reloaded][2] (mainly about back end)
 * [Miguel Garcia: A new backend and optimizer for Scalac][11]
+* [Writing Compiler Plugins][14] (2008/9)
 
 ## The future
 * [Dotty, the repo][7] and [Dotty - getting started wiki][wiki-7]
@@ -30,7 +31,8 @@ Here are some resources for new and experienced Scala hackers, to help in their 
 * [Michael Schinz - Compiling Scala for the JVM][papers-1]
 * [Mirko Stocker - Scala Refactoring (Master's thesis)][papers-2]
 * [Internals of Scala annotations][papers-3]
-
+* [Scalable Component Abstractions][papers-4] (2005)
+    * section 4 is "Case Study: The Scala Compiler"
 
 Anything else? ;-) Feel free to fork this or send a PR my way!
 
@@ -49,7 +51,9 @@ Anything else? ;-) Feel free to fork this or send a PR my way!
 [11]: http://magarciaepfl.github.io/scala/
 [12]: http://slides.com/cb372/scalac-scalaworld-2015#/
 [13]: http://docs.scala-lang.org/overviews/reflection/symbols-trees-types.html
+[14]: http://www.scala-lang.org/old/node/140.html
 
 [papers-1]: http://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf
 [papers-2]: http://scala-refactoring.org/wp-content/uploads/scala-refactoring.pdf
 [papers-3]: http://www.scala-lang.org/old/sid/5
+[papers-4]: http://lampwww.epfl.ch/~odersky/papers/ScalableComponent.pdf
